@@ -1,6 +1,6 @@
 ### this contains the metadata used in the analysis. All the barcodes wehere changed to represent 
 their sample numbers in this analysis, from sample 1 through to sample 24. 
-## this is a tab separated file. 
+## this is a tab separated file.
 
 sample	condition
 1	control
