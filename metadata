@@ -1,1 +1,30 @@
+### this contains the metadata used in the analysis. All the barcodes wehere changed to represent 
+their sample numbers in this analysis, from sample 1 through to sample 24. 
+## this is a tab separated file. 
 
+sample	condition
+1	control
+9	control
+17	control
+2	treatment
+3	treatment
+4	treatment
+5	treatment
+6	treatment
+7	treatment
+8	treatment
+10	treatment
+11	treatment
+12	treatment
+13	treatment
+14	treatment
+15	treatment
+16	treatment
+18	treatment
+19	treatment
+20	treatment
+21	treatment
+22	treatment
+23	treatment
+24	treatment
+	
